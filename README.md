@@ -1,7 +1,5 @@
 ### Hi, I'm Mandar.
 
-I've spent the last 10 years writing documentation for other people's products. These days I'm also building one of my own.
-
 **Currently:** building [Cognocient](https://cognocient.com) — cost tracking and budget enforcement for teams calling OpenAI, Anthropic, and Gemini. Started as a proxy, now also ships as an [async wrapper](https://github.com/mandarvshinde/cognocient-python-wrapper) for teams who don't want a proxy in their request path.
 
 **Background:** technical writer, mostly API docs and developer-facing content. That's the lens I bring to building a product too — if the docs don't tell the truth about what a tool does and doesn't do, the docs are the bug.
